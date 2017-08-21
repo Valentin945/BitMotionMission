@@ -1,1 +1,18 @@
-README
+Application made thanks to android studio.
+To use it, branch a Mobile phone using android or
+install an Android emulator. Then launch the project on android studio
+and run it on the platform you want.
+
+
+One the app launch you have a menu bar with 2 icons. The first one is a go-back
+arrow. It allows you to get back to your last display. For exemple you are on
+the about page and you want to go on the one you were before this one, you just
+have to click on it. 
+The other button is the query icon. Thanks to it we can have access on details
+for who did the application and how to contact him.
+
+Then you have two spinners displayed on the screen, the first one is for the
+entry currency and the other one for the end currency.
+Then you tape the amount you want to convert and then a new pair of rectangle
+should appears, the first one is the convertion and the second one the date you
+made it.
