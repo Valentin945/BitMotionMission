@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Currency Convertor</string>
+    <string name="value">Value to convert</string>
+    <string name="entry">Source Currency</string>
+    <string name="out">End Currency</string>
+    <string name="convert">Convert</string>
+    <string name="app_description">This application is a Currency convertor, you have to chose you entry currency
+                                    and you\'re end currency and the convertion will be done</string>
+    <string name="reset_menu">Reset</string>
+    <string name="about_menu">About</string>
 </resources>

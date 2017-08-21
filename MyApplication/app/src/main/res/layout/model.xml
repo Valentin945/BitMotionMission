@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:id="@+id/model"
+    >
+
+    <TextView
+        android:layout_width="0px"
+        android:layout_height="46dp"
+        android:layout_weight="0.3"
+        android:id="@+id/img_monney"
+        android:textColor="#00ff00"
+        android:gravity="center"
+        android:textSize="50px"
+        />
+    <TextView
+        android:id="@+id/name_monney"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.7"
+        />
+
+</LinearLayout>
